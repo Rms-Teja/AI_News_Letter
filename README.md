@@ -1,1 +1,1 @@
-# Agentic-AI
+# AI News Letter
